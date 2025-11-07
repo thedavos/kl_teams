@@ -13,11 +13,13 @@ Esta aplicación permite a los usuarios:
 
 ## Capturas de Pantallas
 
-![Listado de Equipos](assets/listado_equipos.png)
-![Listado de Preferencias](assets/listado_preferencias.png)
-![Detalle de Preferencia](assets/detalle_preferencia.png)
-![Crear Preferencia](assets/crear_preferencia.png)
-![Editar Preferencia](assets/editar_preferencia.png)
+| Listado de Equipos y Preferencias | Detalle y Creación |
+| :---: | :---: |
+| <img src="assets/listado_equipos.png" alt="Listado de Equipos" width="300"/> | <img src="assets/listado_preferencias.png" alt="Listado de Preferencias" width="300"/> |
+| <img src="assets/detalle_preferencia.png" alt="Detalle de Preferencia" width="300"/> | <img src="assets/crear_preferencia.png" alt="Crear Preferencia" width="300"/> |
+| <img src="assets/editar_preferencia.png" alt="Editar Preferencia" width="300"/> | |
+
+
 
 ## Arquitectura
 
