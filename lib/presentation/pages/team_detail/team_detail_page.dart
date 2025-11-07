@@ -34,7 +34,7 @@ class _TeamDetailPageState extends State<TeamDetailPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Detalle de mi equipo favorito'),
+        title: const Text('Detalle de mi equipo'),
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
           onPressed: () => context.go(AppRouter.preferences),

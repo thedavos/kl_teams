@@ -78,7 +78,7 @@ class _SplashPageState extends State<SplashPage> {
             children: [
               const CircularProgressIndicator(),
               const SizedBox(height: 16),
-              Text('Cargando equipos... (intento $_retries/$_maxRetries)'),
+              Text('Cargando equipos...'),
             ],
           ),
         ),

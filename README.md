@@ -11,6 +11,14 @@ Esta aplicación permite a los usuarios:
 - Gestionar preferencias locales (crear, editar, eliminar)
 - Visualizar información detallada de cada equipo
 
+## Capturas de Pantallas
+
+![Listado de Equipos](assets/listado_equipos.png)
+![Listado de Preferencias](assets/listado_preferencias.png)
+![Detalle de Preferencia](assets/detalle_preferencia.png)
+![Crear Preferencia](assets/crear_preferencia.png)
+![Editar Preferencia](assets/editar_preferencia.png)
+
 ## Arquitectura
 
 El proyecto implementa **Clean Architecture** con las siguientes capas:
@@ -323,14 +331,6 @@ flutter pub upgrade
 flutter pub get
 ```
 
-## 👨‍💻 Autor
+## Autor
 
 Desarrollado como parte de una prueba técnica de Flutter.
-
-## 📄 Licencia
-
-Este proyecto es de uso demostrativo.
-
----
-
-**Última actualización**: Noviembre 2025
